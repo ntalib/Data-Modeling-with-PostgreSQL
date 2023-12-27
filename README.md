@@ -61,7 +61,7 @@ PostgresSQL 9.5 or above
 psycopg2 - PostgreSQL database adapter for Python
 
 
-## How to run
+## Run
 
 Run the drive program ```main.py``` as below.
 ```
